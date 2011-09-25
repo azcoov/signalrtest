@@ -1,0 +1,9 @@
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\bin\SignalRTest.dll
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\bin\SignalRTest.pdb
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\bin\EntityFramework.dll
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\bin\SignalR.dll
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\bin\EntityFramework.xml
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\obj\Debug\SignalRTest.dll
+c:\Users\bcoover\Documents\Visual Studio 2010\Projects\SignalRTest\SignalRTest\obj\Debug\SignalRTest.pdb
